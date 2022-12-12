@@ -8,8 +8,7 @@ pandas==1.4.4
 pickleshare==0.7.5
 pillow==9.2.0
 pip==22.3.1
-python.app==3
-python_abi==3.9
+
 s3transfer==0.6.0
 scikit-image==0.19.3
 scikit-learn==1.0.2
