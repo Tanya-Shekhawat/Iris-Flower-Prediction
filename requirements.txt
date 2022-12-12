@@ -2,30 +2,30 @@
 # $ conda create --name <env> --file <this file>
 # platform: osx-64
 
-matplotlib=3.6.2=py39hecd8cb5_0
-matplotlib-base=3.6.2=py39h220de94_0
-matplotlib-inline=0.1.6=py39hecd8cb5_0
+matplotlib==3.6.2
+matplotlib-base==3.6.2
+matplotlib-inline==0.1.6
 
-numpy=1.21.5=py39h2e5f0a9_3
-numpy-base=1.21.5=py39h3b1a694_3
-numpydoc=1.5.0=py39hecd8cb5_0
+numpy==1.21.5
+numpy-base==1.21.5
+numpydoc==1.5.0
 
-pandas=1.4.4=py39he9d5cce_0
-pandocfilters=1.5.0=pyhd3eb1b0_0
+pandas==1.4.4
+pandocfilters==1.5.0
 
-pickleshare=0.7.5=pyhd3eb1b0_1003
-pillow=9.2.0=py39hde71d04_1
-pip=22.3.1=pypi_0
+pickleshare==0.7.5
+pillow==9.2.0
+pip==22.3.1
 
-python.app=3=py39hca72f7f_0
-python_abi=3.9=2_cp39
+python.app==3
+python_abi==3.9
 
 
-s3transfer=0.6.0=py39hecd8cb5_0
-scikit-image=0.19.3=py39hcec6c5f_1
-scikit-learn=1.0.2=py39hae1ba45_1
-scikit-learn-intelex=2021.6.0=py39hecd8cb5_0
+s3transfer==0.6.0
+scikit-image==0.19.3
+scikit-learn==1.0.2
+scikit-learn-intelex==2021.6.0
 
-seaborn=0.12.1=py39hecd8cb5_0
+seaborn==0.12.1
 
-streamlit=1.10.0=pypi_0
+streamlit==1.10.0
